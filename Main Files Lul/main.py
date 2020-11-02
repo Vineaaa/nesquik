@@ -139,4 +139,4 @@ except NameError:
     
 
 # running the bot
-bot.run('NzYwNzQ4NzM5NTgwMTMzNDA3.X3QkeQ.oS-NYPMPgBYuisbSVzWc1PN39Mc')
+bot.run('TOKEN')
